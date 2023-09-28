@@ -16,7 +16,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("max.jpg");
+    background-image: url("images/max.jpg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -117,7 +117,7 @@ a{
 }
 /** hero section **/
 .hero-section{
-    background-image: url("pic.jpg");
+    background-image: url("images/pic.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
